@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumInterviewTest", "SeleniumInterviewTest\SeleniumInterviewTest.csproj", "{EA649ECD-8150-4A4A-BC44-3F22A519B31D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA649ECD-8150-4A4A-BC44-3F22A519B31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA649ECD-8150-4A4A-BC44-3F22A519B31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA649ECD-8150-4A4A-BC44-3F22A519B31D}.Debug|x64.ActiveCfg = Release|x64
+		{EA649ECD-8150-4A4A-BC44-3F22A519B31D}.Debug|x64.Build.0 = Release|x64
+		{EA649ECD-8150-4A4A-BC44-3F22A519B31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA649ECD-8150-4A4A-BC44-3F22A519B31D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA649ECD-8150-4A4A-BC44-3F22A519B31D}.Release|x64.ActiveCfg = Release|x64
+		{EA649ECD-8150-4A4A-BC44-3F22A519B31D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
